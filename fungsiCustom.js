@@ -84,5 +84,3 @@ module.exports = {
   modifyFile3,
   bacaData,
 };
-
-bacaData();
